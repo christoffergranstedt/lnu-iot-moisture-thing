@@ -8,4 +8,4 @@ Backend - [https://github.com/christoffergranstedt/lnu-iot-moisture-backend](htt
 Frontend - [https://github.com/christoffergranstedt/lnu-iot-moisture-frontend](https://github.com/christoffergranstedt/lnu-iot-moisture-frontend)  
 
 ### Thing repository
-This is the thing repository. A thing, a sensor that measures the mositure level in a plant and publish that data on a topic via a MQTT broker that a backend server is listening too.
+This is the thing repository. A thing, a sensor that measures the mositure level in a plant and publish that data on a topic via a MQTT broker that a backend server is listening too. Currently the thing is not in use.
